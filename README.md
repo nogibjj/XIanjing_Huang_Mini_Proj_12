@@ -1,4 +1,5 @@
 # Xianjing_Huang_Mini_Proj_12
+[![Build and Push Docker Image](https://github.com/nogibjj/Xianjing_Huang_Mini_Proj_12/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Xianjing_Huang_Mini_Proj_12/actions/workflows/cicd.yml)
 
 ## Requirements
 * Create a simple python application containerized with a dockerfile.
@@ -90,3 +91,8 @@ Set up the following secrets in your GitHub repository under Settings > Secrets 
 2. Log in to Docker Hub
 3. Build Docker image
 4. Push Docker image
+
+Here is where you can see the container image pushed to DockerHub:
+<img src="/imgs/005.png" alt="5" style="height:180px;">
+
+<img src="/imgs/006.png" alt="6" style="height:220px;">
